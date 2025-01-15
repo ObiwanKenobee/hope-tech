@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ## Contact
-For inquiries or collaboration opportunities, please contact [Your Email Address].
+For inquiries or collaboration opportunities, please contact eugeneochako@gmail.com.
 
 ---
 
